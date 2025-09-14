@@ -1,6 +1,5 @@
-Here’s a polished **Markdown (.md)** version of your content with better structure, formatting, and explanations:
 
-markdown
+
 ### Metrics and Prometheus in Monitoring
 
  ## 📊 What Are Metrics?
