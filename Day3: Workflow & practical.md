@@ -1,7 +1,5 @@
 # 📊 Prometheus Monitoring Workflow
 
-This document explains the **Prometheus monitoring architecture** and how different components interact to collect, store, and visualize metrics.
-
 ---
 
 ## 🏗 **Key Components**
