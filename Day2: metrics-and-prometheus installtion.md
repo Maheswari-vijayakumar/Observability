@@ -1,9 +1,9 @@
 Here’s a polished **Markdown (.md)** version of your content with better structure, formatting, and explanations:
 
 ```markdown
-# Metrics and Prometheus in Monitoring
+Metrics and Prometheus in Monitoring
 
-## 📊 What Are Metrics?
+ 📊 What Are Metrics?
 Metrics are **periodic or historical data points** that help us understand the **health of a system**.
 
 ---
