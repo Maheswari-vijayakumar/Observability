@@ -1,23 +1,22 @@
 Here’s a polished **Markdown (.md)** version of your content with better structure, formatting, and explanations:
 
-```markdown
-Metrics and Prometheus in Monitoring
+markdown
+### Metrics and Prometheus in Monitoring
 
- 📊 What Are Metrics?
+ ## 📊 What Are Metrics?
 Metrics are **periodic or historical data points** that help us understand the **health of a system**.
 
----
 
 ### 🏥 **Medical Field Analogy**
 Imagine a patient admitted to a hospital. A nurse collects key information every 15 minutes and records it:  
 
-```
+
 
 10:00 AM → HB → 76
 10:15 AM → HB → 81
 ... (continues throughout the day)
 
-````
+
 
 At the end of the day, the nurse gives this information to the doctor to determine whether the patient’s condition is **critical** or **safe**.
 
