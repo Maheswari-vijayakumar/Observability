@@ -1,8 +1,4 @@
-Here’s a polished Markdown file based on your content. I’ve added some extra context, formatting improvements, and minor clarifications to make it more readable and beginner-friendly.
 
----
-
-````markdown
 # Python App Metrics with Prometheus
 
 This guide shows how to expose custom metrics from a Python application using **Prometheus**, containerize the app with **Docker**, and deploy it to **Kubernetes** with monitoring using **ServiceMonitor**.
